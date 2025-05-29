@@ -5,9 +5,7 @@ import Algoritmos_Ordenação.ClasseALuno.Aluno;
 
 public class Main <T extends Comparable<T>>{
     public static void main(String[] args){
-        sortInteiros();
-        sortString();
-        sortNotas();
+     s
     }
     
     public static void sortInteiros(){ //questao 1

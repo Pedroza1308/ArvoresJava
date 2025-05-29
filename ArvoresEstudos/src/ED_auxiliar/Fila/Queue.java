@@ -1,4 +1,4 @@
-package queueGenerica;
+package ED_auxiliar;
 
 public class Queue<T> {
     private QueueNode<T> inicio;
